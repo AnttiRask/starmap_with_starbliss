@@ -11,7 +11,7 @@ And as always, there are numerous functions from the different __tidyverse__ pac
 ## Things to Remember!
 
 - If you wish to use the code exactly as it's written, you need to register with the [Google Maps Platform](https://developers.google.com/maps).
-At the time of writing this Google offers 300 € worth of credits for free (to be used within 90 days). But as with any cloud platform, be mindful
+At the time of writing this Google offers $300 worth of credits for free (to be used within 90 days). But as with any cloud platform, be mindful
 of credit usage!
 - When inserting the date of birth, you should use the yyyy-mm-dd (ISO 8601) format.
 
