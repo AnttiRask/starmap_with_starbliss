@@ -8,7 +8,7 @@ This repo introduces an easy way to create a star map according to, for instance
 
 And as always, there are numerous functions from the different __tidyverse__ packages that make everything else possible.
 
-## Things to Remember!
+## Things to Remember
 
 - If you wish to use the code exactly as it's written, you need to register with the [Google Maps Platform](https://developers.google.com/maps).
 At the time of writing this Google offers $300 worth of credits for free (to be used within 90 days). But as with any cloud platform, be mindful
